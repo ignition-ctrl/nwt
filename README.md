@@ -1,12 +1,12 @@
 <a href="https://archive.org/details/new-world-order-bible-versions-full-movie" title="Why the King James Bible?"><img src="https://i.imgur.com/A9piMKc.png" width="250" align="right"></a>
 
-# kjv [![AUR](https://img.shields.io/badge/AUR-kjv--git-blue.svg)](https://aur.archlinux.org/packages/kjv-git/)
+# kjv 
 
 Read the Word of God from your terminal
 
 ## Usage
 
-    usage: kjv [flags] [reference...]
+    usage: nwt [flags] [reference...]
 
     Flags:
       -A num  show num verses of context after matching verses
