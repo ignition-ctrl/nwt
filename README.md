@@ -3,6 +3,7 @@
 # nwt
 
 Read the Word of God from your terminal
+
 Forked from layeh/kjv
 
 This uses the New World Translation and so is renamed `nwt`.
@@ -45,6 +46,7 @@ This uses the New World Translation and so is renamed `nwt`.
             All verses in a chapter of a book that match a pattern
 
 
+
 ## Build
 
 nwt can be built by cloning the repository and then running make:
@@ -54,8 +56,10 @@ nwt can be built by cloning the repository and then running make:
     make
 
 
+
 ## License
 
 Public domain
+
 
 
