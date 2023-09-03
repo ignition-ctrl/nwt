@@ -1,5 +1,3 @@
-<a href="https://archive.org/details/new-world-order-bible-versions-full-movie" title="Why the King James Bible?"><img src="https://i.imgur.com/A9piMKc.png" width="250" align="right"></a>
-
 # nwt
 
 Read the Word of God from your terminal
