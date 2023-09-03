@@ -3,8 +3,8 @@
 # nwt
 
 Read the Word of God from your terminal
-
 Forked from layeh/kjv
+
 This uses the New World Translation and so is renamed `nwt`.
 
 ## Usage
@@ -57,4 +57,5 @@ nwt can be built by cloning the repository and then running make:
 ## License
 
 Public domain
+
 
