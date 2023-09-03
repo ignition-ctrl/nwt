@@ -1,8 +1,11 @@
 <a href="https://archive.org/details/new-world-order-bible-versions-full-movie" title="Why the King James Bible?"><img src="https://i.imgur.com/A9piMKc.png" width="250" align="right"></a>
 
-# kjv 
+# nwt
 
 Read the Word of God from your terminal
+
+Forked from layeh/kjv
+This uses the New World Translation and so is renamed `nwt`.
 
 ## Usage
 
@@ -41,14 +44,17 @@ Read the Word of God from your terminal
         <Book>:<Chapter>/<Search>
             All verses in a chapter of a book that match a pattern
 
+
 ## Build
 
-kjv can be built by cloning the repository and then running make:
+nwt can be built by cloning the repository and then running make:
 
-    git clone https://github.com/bontibon/kjv.git
-    cd kjv
+    git clone https://github.com/ignition-ctrl/nwt.git
+    cd nwt
     make
+
 
 ## License
 
 Public domain
+

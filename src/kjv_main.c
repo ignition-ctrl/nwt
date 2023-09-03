@@ -20,7 +20,7 @@ License: Public domain
 #include "strutil.h"
 
 const char *
-usage = "usage: kjv [flags] [reference...]\n"
+usage = "usage: nwt [flags] [reference...]\n"
     "\n"
     "Flags:\n"
     "  -A num  show num verses of context after matching verses\n"
@@ -106,7 +106,7 @@ main(int argc, char *argv[])
             printf("%s", usage);
             return 0;
         case '?':
-            fprintf(stderr, "kjv: invalid flag -%c\n\n%s", optopt, usage);
+            fprintf(stderr, "nwt: invalid flag -%c\n\n%s", optopt, usage);
             return 1;
         }
     }
@@ -129,7 +129,7 @@ main(int argc, char *argv[])
     if (argc == optind) {
         using_history();
         while (true) {
-            char *input = readline("kjv> ");
+            char *input = readline("nwt> ");
             if (input == NULL) {
                 break;
             }
